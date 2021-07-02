@@ -1,0 +1,36 @@
+small{
+    color: blue;
+    background-color:rgba(139, 0, 0, 0.548) ;
+}
+
+p{
+    color: darkseagreen;
+    text-align: justify;
+}
+h1{
+    color: darkslategray;
+    background-color: darkturquoise;
+}
+img{
+    max-width: 50%;
+    border:2px solid darkturquoise;
+    border-radius: 20px;
+    /* margin: 20px 10px 100px 200px; */
+    margin-left: 400px;
+    margin-top: 20px;
+    padding: 2px;
+    width: 50%;
+    height: auto;
+
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+
+}
+strong{
+    color: dimgray;
+    font-weight: 500;
+}
